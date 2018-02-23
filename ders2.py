@@ -3,3 +3,5 @@ print("furkan")
 furkan
 baki
 ahmet
+galatasaray
+ömer
